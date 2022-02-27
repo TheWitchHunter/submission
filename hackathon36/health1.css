@@ -1,0 +1,17 @@
+nav a{
+    color: brown;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 900;
+    float: left;
+    
+}
+
+nav {
+    border-top: 5px solid #000;
+    border-bottom: 5px solid #000;
+    background-color: rgba(93, 154, 182, 0.699);
+    overflow: hidden;
+    
+    }
